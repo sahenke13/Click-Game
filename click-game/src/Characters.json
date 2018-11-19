@@ -1,0 +1,38 @@
+[
+{
+    "id": 1,
+    "image": "https://i2-prod.mirror.co.uk/incoming/article9287204.ece/ALTERNATES/s810/Mickey-mouse.jpg",
+    "clicked":false,
+    "name": "Mickey"
+},
+{
+    "id": 2,
+    "image":"https://upload.wikimedia.org/wikipedia/en/f/f7/Mater_%28Cars%29.png",
+    "clicked":false,
+    "name": "Mater"
+},
+{
+    "id":3,
+    "image":"http://www.toonbarn.com/wordpress/wp-content/uploads/2011/04/1980s-ThunderCats-Original-Series-heads-to-DVD.jpg",
+    "clicked":false,
+    "name": "ThunderCats"
+},
+{
+    "id":4,
+    "image":"https://vignette.wikia.nocookie.net/disney/images/f/fc/AoU_Hulk_01.png/revision/latest/scale-to-width-down/1031?cb=20150310161343",
+    "clicked":false,
+    "name": "Hulk"
+},
+{
+    "id":5,
+    "image":"https://www.vanguardngr.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-01-at-13.14.31-e1527855319347.png",
+    "clicked":false,
+    "name": "superMan"
+},
+{
+    "id":6,
+    "image":"https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
+    "clicked":false,
+    "name": "BatMan"
+}
+]

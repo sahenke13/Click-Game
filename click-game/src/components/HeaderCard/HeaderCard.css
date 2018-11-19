@@ -1,0 +1,17 @@
+#header{
+    margin-bottom: 5%;
+    padding: 10px;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    float: left;
+    color: white;
+    background: black;
+}
+
+#headProp{
+    color: white;
+    background: black;
+    padding-right: 30px;
+    padding-left: 30px;
+}
