@@ -49,8 +49,11 @@ clicked = (id) => {
        if(this.state.score > this.state.highScore){
          this.setState({highScore: this.state.score,
                           score: 0})
+       }else{
+         this.setState({score: 0})
        }
        this.state.charList.forEach(char => (char.clicked = false))
+       this.shuffleArray(this.state.charList);
      }
       console.log(currentChar);
 
